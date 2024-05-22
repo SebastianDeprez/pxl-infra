@@ -29,15 +29,15 @@ locals {
         "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILe8frS9W779nR/TVBTc1giVLt2bwfTYnfqMt7D2qozB 12300247@student.pxl.be",
       ]
     }
+
     Runar = {
       ssh_keys = [
-        "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBKgm5n+eS/QiGrUHD6i2zFJRsfdEJtzhgJXLggQjuEz runar@runar"
+        "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBrEgVBQ1AonoTM9rrZDXfByF+5CC/8kEt2Brh1n4Zag runar.jans@gmail.com"
       ]
     }
     Christophe = {
       ssh_keys = [
         "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJ/TzK2ORvoOQXWLWnQQcHoEuDY7PUlp051mwiaQpzeQ pandora@gmail.com",
-
       ]
     }
     Bjarni = {
@@ -68,6 +68,7 @@ locals {
     Devlin = {
       ssh_keys = [
         "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINXXwwetHXIi76JQeo6H5emP0zIABhurDXyrtYLIVQn/ 12300703@student.pxl.be",
+
       ]
     }
     Kobe = {
